@@ -1,0 +1,111 @@
+
+
+
+
+.signup-form-section {
+    width: 100%;
+    height: 130vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.signup-form-container {
+    width: 530px;
+    height: auto;
+    padding: 50px;
+    border-radius: 3px;
+    background-color: white;
+}
+
+.form-label {
+    margin-top: 10px;
+}
+
+.form-control {
+    padding: 10px;
+}
+
+.btn-2 {
+    width: 100%;
+    height: 45px;
+    margin-top: 30px;
+    border-radius: 5px;
+    
+}
+.btn-2:hover {
+    font-size: 22px;
+    color: rgba(0, 0, 0, 0.774);
+    background-color: rgba(250, 247, 247, 0.81);
+}
+
+.reset {
+    margin-top: 20px;
+}
+.h6 {
+    color:rgba(0, 0, 0, 0.415);
+    font-weight: 700;
+}
+.h6 a{
+    color: rgba(38, 126, 226, 0.736);
+    text-decoration: none;
+}
+
+.already {
+    margin-top: 30px;
+}
+
+
+   /* new css */
+
+  
+
+   
+   
+   .input-group {
+     display: flex;
+     flex-direction: column;
+     gap: 0.5rem;
+   }
+   
+   input {
+     padding: 0.5rem;
+     border: 1px solid gray;
+     font-size: 1rem;
+     font-family: inherit;
+     border: 1px solid rgba(44, 144, 243, 0.297);
+   }
+   
+   .error-message {
+     color: red;
+     font-size: 0.8rem;
+     
+   }
+   
+   button {
+     padding: 0.5rem;
+     color: white;
+     background-color: black;
+     font-size: 1.2rem;
+     margin-top: 2rem;
+   }
+
+
+.form-check {
+    position: relative;
+    height: 45px;
+}
+
+.form-check-input {
+    position: absolute;
+    left: 20px;
+    top: 8px;
+    border: 2px solid rgb(0, 0, 0);
+   }
+
+.org {
+    font-size: 18px;
+    position: absolute;
+    top: 12px;
+    left: 25px;
+}
